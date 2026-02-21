@@ -1,5 +1,4 @@
 # Portfolio
-<!DOCTYPE html>
 <html>
 <head>
     <title>Esther Mwongeli | Portfolio</title>
@@ -122,10 +121,6 @@
         <a href="mailto:esthermwongelikyalo@gmail.com" class="contact-btn">contact me
     
 </a>
-
-
-    
-
    
 </body>
 </html>
