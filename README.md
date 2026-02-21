@@ -1,7 +1,7 @@
 # Portfolio
 <html>
 <head>
-    <title>Esther Mwongeli | Portfolio</title>
+    <title>Esther Mwongeli</title>
     <style>
         body {
             font-family: Arial, sans-serif;
